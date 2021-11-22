@@ -17,12 +17,16 @@ Finally, the results are studied in depth, to better understand why some images 
 This table shows for each image its *[MOS](https://www.twilio.com/docs/glossary/what-is-mean-opinion-score-mos)* (&mu;, [mean](https://en.wikipedia.org/wiki/Mean) opinion score) and *[variance](https://en.wikipedia.org/wiki/Variance)* (&#963;<sup>2</sup>).
 <br>
 Moreover, for each impairment group (original, imp1, imp2) is performed its overall MOS and variance.
+<br>
 <img src="https://github.com/Amatofrancesco99/Image-compression-and-subjective-quality-assessment/blob/main/statistical%20results%20images/mos-table.png" width="800" height="300">
 <br>
 This graph shows the same results discussed in the previous table, in a different way (through a multi-line graph).
+<br>
 <img src="https://github.com/Amatofrancesco99/Image-compression-and-subjective-quality-assessment/blob/main/statistical%20results%20images/mos-graph.png" width="600" height="350">
 <br>
-We can see that none of this images has a strange behaviour in its MOS (it means MOS<sub>imp2</sub> < MOS<sub>imp1</sub> < MOS<sub>original</sub>).
+We can see that none of this images has a strange behaviour in its MOS
+<br>
+(it means MOS<sub>imp2</sub> < MOS<sub>imp1</sub> < MOS<sub>original</sub>).
 <br><br><br>
 **Presentation link**
 <br>
