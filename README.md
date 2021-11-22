@@ -11,8 +11,10 @@ After applying this algorithm, some users (24) were asked to give their personal
 Subsequently, some [statistics](https://docs.google.com/spreadsheets/d/1KzE92K5fdU3O7zQb6gbgB_71cHL2H_fhqHaPDHUbvUY/edit?usp=sharing) were automatically made on these obtained data.
 <br>
 Finally, the results are studied in depth, to better understand why some images have confused most users.
-<br>
-<br>
+<br><br>
+**Statistic results**
+![alt text](http://url/to/img.png)
+<br><br>
 **Presentation link**
 <br>
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://docs.google.com/presentation/d/13nk13bs2LWd0VW3bJVGlTVi19dvzVleI0sHtMW1I2rw/edit?usp=sharing)
